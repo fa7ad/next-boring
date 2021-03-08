@@ -1,6 +1,6 @@
 {
     "cmsType": "contentful",
-    "projectTitle": "Stackbit Ampersand Theme",
+    "projectTitle": "Mildly Boring",
     "staticDir": "public",
     "pagesDir": "content/pages",
     "dataDir": "content/data",
