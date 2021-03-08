@@ -19,7 +19,7 @@ export default class Subscribe extends React.Component {
                 )}
                 <SubscribeForm {...this.props} />
               </div>
-            </section>*
+            </section>*} null
         );
     }
 }
