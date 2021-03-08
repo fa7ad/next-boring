@@ -7,6 +7,7 @@ import SubscribeForm from './SubscribeForm';
 export default class Subscribe extends React.Component {
     render() {
         return (
+            <>
             {/*<section className="subscribe outer">
               <div className="inner-sm">
                 {_.get(this.props, 'data.config.footer.subscribe_title', null) && (
